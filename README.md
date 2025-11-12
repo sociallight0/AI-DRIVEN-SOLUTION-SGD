@@ -27,7 +27,8 @@ Example prediction for a sample input (e.g., 25°C, 1000mm rainfall, 20 tons pes
 ### 3. Prediction vs. Actual Yield Plot
 Visualizes model performance by comparing predicted vs. actual yields.
 
-![Yield Plot](images/yield_plot.png)
+![Yield Plot]<img width="800" height="600" alt="yield_plot" src="https://github.com/user-attachments/assets/308b38d8-e0c9-4410-ba10-627a78a6bca2" />
+
 
 ## How to Run
 1. Clone this repo: `git clone <repo-url>`
